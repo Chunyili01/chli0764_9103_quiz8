@@ -9,17 +9,13 @@ The color presented through the explosion effect can make the subsequent animati
 ***
 - part1 image:
 
-![An image of the Memories](readmeImages/2011_Memories_A2629_001_ltr.jpg
-Links to an external site.)
+![An image of the Memories](readmeImages/2011_Memories_A2629_001_ltr.jpg)
 
-![An image of the Flora on Porcelain](readmeImages/2011_FloraonPorcelain_A2632_001_ltr.jpg
-Links to an external site.)
+![An image of the Flora on Porcelain](readmeImages/2011_FloraonPorcelain_A2632_001_ltr.jpg)
 
-![An image of Memories](http://caiguoqiang.com/wp-content/uploads/2019/01/2011_Memories_A2629_001_ltr.jpg
-Links to an external site.)
+![An image of Memories](http://caiguoqiang.com/wp-content/uploads/2019/01/2011_Memories_A2629_001_ltr.jpg)
 
-![An image of Flora on Porcelain](http://caiguoqiang.com/wp-content/uploads/2019/01/2011_FloraonPorcelain_A2632_001_ltr.jpg
-Links to an external site.)
+![An image of Flora on Porcelain](http://caiguoqiang.com/wp-content/uploads/2019/01/2011_FloraonPorcelain_A2632_001_ltr.jpg)
 ***
 ## Part2
 - part2:  
@@ -30,14 +26,10 @@ By controlling the properties of the particle **position**, **speed**, and **app
 ***
 - part2 image:
 
-![An image of the Effect1](readmeImages/method1.png
-Links to an external site.)
+![An image of the Effect1](readmeImages/method1.png)
 
-![An image of the Effect2](readmeImages/method2.png
-Links to an external site.)
+![An image of the Effect2](readmeImages/method2.png)
 
-[Dynamic Effects](https://openprocessing.org/sketch/2318605
-Links to an external site.)
+[Dynamic Effects](https://openprocessing.org/sketch/2318605)
 
-[Code ctrl+shift+enter](https://openprocessing.org/sketch/2318605
-Links to an external site.)
+[Code ctrl+shift+enter](https://openprocessing.org/sketch/2318605)
